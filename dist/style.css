@@ -1339,6 +1339,11 @@ video {
   line-height: 1.25rem;
 }
 
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
 .font-\[400\] {
   font-weight: 400;
 }
