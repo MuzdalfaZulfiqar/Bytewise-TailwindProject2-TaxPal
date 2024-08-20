@@ -1,3 +1,7 @@
+##TaxPal
+TaxPal is my tailwind practice project which has really improved my frontend skills especially the responsiveness in this project was too challanging but i learnt a lot from this project.
+<hr>
+
 Preview
 
 ![image](https://github.com/user-attachments/assets/4d0cd55b-c580-4658-bc2f-3bfa919aa207)
@@ -19,3 +23,6 @@ Preview
 ![image](https://github.com/user-attachments/assets/64508a96-a138-4b72-9298-e84a05aaad3a)
 
 ![image](https://github.com/user-attachments/assets/bd590a4e-281a-410a-8947-6b640c2d3eea)
+
+![image](https://github.com/user-attachments/assets/8c8c63af-10f6-4110-a5aa-f52ef6c21b3a)
+
