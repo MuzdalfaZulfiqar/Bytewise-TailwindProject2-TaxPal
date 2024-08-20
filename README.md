@@ -1,4 +1,4 @@
-##TaxPal
+
 TaxPal is my tailwind practice project which has really improved my frontend skills especially the responsiveness in this project was too challanging but i learnt a lot from this project.
 <hr>
 
