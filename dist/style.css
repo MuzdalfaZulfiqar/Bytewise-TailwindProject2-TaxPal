@@ -1741,6 +1741,11 @@ video {
     line-height: 1.25rem;
   }
 
+  .sm\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
   .sm\:font-medium {
     font-weight: 500;
   }
